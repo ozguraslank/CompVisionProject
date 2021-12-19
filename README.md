@@ -1,18 +1,15 @@
 # ComputerVision-YoloV5
 
-Yolo v5'in Avantajları ve Dezavantajları:
+*Yolo v5'in Avantajları ve Dezavantajları:
+   *YOLOv4'ten yaklaşık %88 daha küçüktür. (27 MB vs 244 MB)
+   *YOLOv4'ten yaklaşık %180 daha hızlıdır. (140 FPS vs 50 FPS)
 
-YOLOv4'ten yaklaşık %88 daha küçüktür. (27 MB vs 244 MB)
-
-YOLOv4'ten yaklaşık %180 daha hızlıdır. (140 FPS vs 50 FPS)
-
-Aynı görevde kabaca YOLOv4 kadar doğrudur. (0,895 mAP - 0,892 mAP)
-Bu, YOLOv5'in gömülü cihazlara çok daha kolay dağıtılabileceği anlamına gelir.
-
-Ancak asıl sorun, YOLOv5 için diğer YOLO sürümleri gibi resmi bir belge yayınlanmamış olmasıdır. Ayrıca, YOLO v5 hala geliştirme aşamasındadır ve ultralytics'ten sık sık güncellemeler alınıyor, geliştiriciler gelecekte bazı ayarları güncelleyebilir.
+YOLOv5 için asıl sorun: diğer YOLO sürümleri gibi resmi bir belge yayınlanmamış olmasıdır. Ayrıca, YOLO v5 hala geliştirme aşamasındadır ve ultralytics'ten sık sık güncellemeler almaktadır.
 
 
 ![image](https://user-images.githubusercontent.com/59237081/146679876-5e74d28d-2f1b-46e7-86f0-cfeb027db991.png)
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp YOLOV5'in diğer versiyonlarına göre performans farkı
+
 
 Biz projemizde YoloV5 kullandık. 
 Projemizin başında Drone verisi kullandık ancak istediğimiz başarıyı verinin tam olarak güzel olmasından dolayı elde edemedik.Bu yüzden elimizde olan verilerden iyi durumda olanları etiketleyip YoloV5 ile eğitip hızlıca bir sonuç aldık.
