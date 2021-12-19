@@ -1,4 +1,4 @@
-# ComputerVision-YoloV5
+<h2 style ="text-align": center; "markdown="1"> ComputerVision-YoloV5 </h2>
 
 *Yolo v5'in Avantajları ve Dezavantajları:
    *YOLOv4'ten yaklaşık %88 daha küçüktür. (27 MB vs 244 MB)
@@ -8,6 +8,7 @@ YOLOv5 için asıl sorun: diğer YOLO sürümleri gibi resmi bir belge yayınlan
 
 
 ![image](https://user-images.githubusercontent.com/59237081/146679876-5e74d28d-2f1b-46e7-86f0-cfeb027db991.png)
+
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp YOLOV5'in diğer versiyonlarına göre performans farkı
 
 
