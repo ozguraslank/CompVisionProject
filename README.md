@@ -2,6 +2,13 @@
 Google Colab kullanılarak yapılmıştır.
 <br> <br>
 
+#### Katkıda Bulunanlar:
+<ul>
+ <li><a href="https://github.com/codermery" title="Go to Github Profile of Meryem Koç"> Meryem Koç </a></li>
+ <li><a href="https://github.com/codermery " title="Go to Github Profile of Ömer Faruk Güler"> Ömer Faruk Güler </a></li>
+ <li><a href="https://github.com/ozguraslank" title="Go to Github Profile of Özgür Aslan"> Özgür Aslan </a></li>
+</ul>
+
 <h2 style ="text-align": center; "markdown="1"> Kod </h2>
 
 #### Setup
